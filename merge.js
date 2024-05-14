@@ -56,4 +56,3 @@ while (pointer2 < array2.length){
 
 }
 
-console.log(mergeStep([10,11,12],[1,2,3]))
